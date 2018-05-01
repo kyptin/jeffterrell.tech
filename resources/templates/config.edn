@@ -1,0 +1,35 @@
+{:site-title           "jeffterrell.tech"
+ :author               "Jeff Terrell"
+ :description          "Thoughts on software, teaching, toolsmithing, agility, DevOps, philosophy, Christianity, homesteading, or whatever I feel like I wanna do, gosh!"
+ :site-url             "https://jeffterrell.tech/"
+ :post-root            "posts"
+ :page-root            "pages"
+ :post-root-uri        "posts"
+ :page-root-uri        "pages"
+ :tag-root-uri         "tags"
+ :author-root-uri      "authors"
+ :blog-prefix          "/blog"
+ :rss-name             "feed.xml"
+ :rss-filters          ["cryogen" "clojure"]
+ :recent-posts         7
+ :post-date-format     "yyyy-MM-dd"
+ :archive-group-format "yyyy MMMM"
+ :sass-src             []
+ :sass-path            "sass"
+ :compass-path         "compass"
+ :theme                "blue"
+; :theme                "blue_centered"
+; :theme                "lotus"
+; :theme                "nucleus"
+ :resources            ["img"]
+ :keep-files           [".git"]
+ :disqus?              true
+ :disqus-shortname     "jeffterrell-tech"
+ :ignored-files        [#"\.#.*" #".*\.swp$"]
+ :posts-per-page       5
+ :blocks-per-preview   4
+ :previews?            true
+ :clean-urls?          true
+ :hide-future-posts?   true
+ :klipse               {}
+ :debug?               false}
