@@ -6,11 +6,11 @@
 
 <em>Abstract: calls to </em>`reduce`<em> are difficult to understand. An example </em>`reduce`<em> in a code sample is analyzed and discussed to explore the reasons. An alternative version without the </em>`reduce`<em> is offered and compared.</em>
 
-<!--more-->
-
 I'm really keen on legible code. Apart from correctness, I think legibility is the most important thing for software engineering, where the main cost is in communicating things between people. The trick is that "legible" is neither objective nor quantifiable, but that's actually how it should be: we're dealing with humans, here.
 
 In my quest for legibility, I do code reviews. I recently saw the following code (in Clojure). I think it's not quite as legible as it could be.
+
+<!-more->
 
 ```clojure
 (let [env-vars ["PORT" "DATOMIC_URI" "ASSET_ROOT"]

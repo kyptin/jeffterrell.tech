@@ -5,12 +5,14 @@
  :toc false}
 
 About 3 weeks ago, I switched to the <a href="http://colemak.com/">Colemak keyboard layout</a>. It's much more efficient than the standard Qwerty layout but not as alien as the more well-known alternative, Dvorak.
-<!--more-->
+
 It's been challenging. I was typing around 115 words per minute using Qwerty, and I had to toss that out and start over from zero. Ouch. The first week was especially frustrating. Things took much longer to type than my mind was expecting, and I often lost my train of thought in the process of getting it out of my head.
 
 At this point, I've recovered about a third to a half of my speed. It's no longer very painful. I'm getting there.
 
 However, there's one area in my muscle memory that is resisting the advances of the new Colemak regime: <a href="http://www.vim.org/about.php">vim</a>. Vim is frustrating all over again, much like when I was first learning it in college.
+
+<!-more->
 
 In thinking about where the disconnect lies, I realized something. <em>I no longer mediate text editing actions through the letters that represent them.</em>
 

@@ -8,7 +8,7 @@ We’re big fans of Clojure at Altometrics. It really gets out of the way and le
 
 I recently wrote the following Clojure function to lazily `reduce` a large sequence. I couldn’t find a Clojure function that does this, so I figured it would be worth sharing. The discussion follows, but first, here’s the code:
 
-<!--more-->
+<!-more->
 
 ```clojure
 (defn sidelong-reduce

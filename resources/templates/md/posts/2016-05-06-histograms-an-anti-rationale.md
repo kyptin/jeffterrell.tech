@@ -12,7 +12,7 @@ Although pie charts are commonplace, those skilled in the art of data visualizat
 
 I argue that histograms are more akin to pie charts than bar charts. In other words, they do not play well with the human visual system, and a good alternative exists. This article examines the primary flaw of histograms.
 
-<!--more-->
+<!-more->
 
 ## The problem of histograms
 

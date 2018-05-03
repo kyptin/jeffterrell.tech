@@ -10,7 +10,7 @@ I thought it provided a way to run docker images on any host that supported dock
 
 I first encountered something fishy when I found <a href="https://hub.docker.com/r/auchida/freebsd/">this docker image</a> on Docker Hub, whose description said, "FreeBSD Docker host is required to run this image." I thought, "How is that even possible?" And sure enough, I could run the image just fine with a FreeBSD host. But when I tried to run it on my iMac, it silently failed. How could this be?
 
-<!--more-->
+<!-more->
 
 I posed the question to the <a href="https://lists.freebsd.org/mailman/listinfo/freebsd-virtualization">FreeBSD Virtualization mailing list</a>, and I got <a href="https://lists.freebsd.org/pipermail/freebsd-virtualization/2016-June/004495.html">an informative reply</a> from <a href="http://www.pix.net/staff/lidl/index.html">Kurt Lidl</a>. In a nutshell, the problem is that the system calls that the image running inside the docker container makes don't necessarily line up with what the docker host supports.
 

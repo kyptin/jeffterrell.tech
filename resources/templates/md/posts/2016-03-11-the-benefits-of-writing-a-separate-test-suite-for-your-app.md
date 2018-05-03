@@ -6,8 +6,9 @@
 
 Abstract: Keeping a test suite separate from the application itself has several benefits, including adopting a user's perspective, (potentially) identical tests for development or production, load testing, and flexibility to totally rewrite the app.
 
-<!--more-->
 We Altometrics engineers were recently discussing the nature of tests and test suites. Why are they useful? What assumptions are they founded on? What about them is lacking? As we discussed, we stumbled upon an idea that was new to us: having a test suite that <em>isn't</em> fundamentally tied to the language and framework you're using for your application. No doubt others have considered and used this approach, but it seems to be far enough out of the way things are done, at least in our programming subculture, that it seems worth publishing.
+
+<!-more->
 
 These days, it's common to have tests live in the same project as the application itself, e.g. in a `test/` directory. The tests typically have direct access to the application code, which is in the same runtime and is (implicitly or explicitly) required using the same module mechanisms that the language provides. The application code sometimes, though hopefully not often, can recognize whether it is being tested and do different things in a testing context versus a production context. Also, various aspects of the application's configuration change in a testing context, which can add complexity to the project as well as allow inconsistencies between test and production environments.
 
