@@ -4,13 +4,14 @@
  :tags ["update" "work" "resume"]
  :toc false}
 
-I have an exciting new job lined up on July 1 (stay tuned for that
-announcement), but I have about a month and a half free between now and then.
-Anybody have a project they could use my help on? I specialize in
-Clojure\[script\], data analytics and visualization, and Javascript, and I've
-been known to work on Rails and other projects as well. You can find my
-r&eacute;sum&eacute; [here](/img/résumé.pdf) and my LinkedIn Profile
-[here](https://www.linkedin.com/in/jeffreyterrell/).
+I have an exciting new job lined up on July 1
+(~~stay tuned for that announcement~~
+update: see announcement [here](../2018-03-03-new-job/)), but I have about a
+month and a half free between now and then.  Anybody have a project they could
+use my help on? I specialize in Clojure\[script\], data analytics and
+visualization, and Javascript, and I've been known to work on Rails and other
+projects as well. You can find my r&eacute;sum&eacute; [here](/img/résumé.pdf)
+and my LinkedIn Profile [here](https://www.linkedin.com/in/jeffreyterrell/).
 
 <!-more->
 
