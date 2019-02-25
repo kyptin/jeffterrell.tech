@@ -47,10 +47,10 @@ It's important to combine all the reading with some experience actually coding. 
 [Aditya Athalye](https://github.com/adityaathalye) got in touch to recommend
 [Clojure by Example](https://github.com/adityaathalye/clojure-by-example). I've
 looked it over, and I agree that it deserves a mention in this post. Besides
-the up-to-date [setup
-instructions](https://github.com/adityaathalye/clojure-by-example#setup-instructions)
-(and also some more resources on [choosing and setting up an
-editor](https://github.com/adityaathalye/clojure-by-example#code-editor-and-tooling)),
+the up-to-date
+[setup instructions](https://github.com/adityaathalye/clojure-by-example#setup-instructions)
+(and also some more resources on
+[choosing and setting up an editor](https://github.com/adityaathalye/clojure-by-example#code-editor-and-tooling)),
 it includes a series of tutorial examples teaching Clojure one piece at a time
 in a well-organized way. Check it out.
 
