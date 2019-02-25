@@ -42,6 +42,18 @@ The [Clojurians Slack](http://clojurians.net/) is where lots of Clojurians hang 
 
 It's important to combine all the reading with some experience actually coding. A fun way to do that is with the exercises on [4Clojure.com](http://www.4clojure.com/). Once you solve a problem, you can see solutions from other users you follow, which is a great way to learn about other techniques and other core functions. (You can follow me, user `jeff_terrell`. I've solved all the problems, often prioritizing legibility over concision, although I don't necessarily stand by all my solutions.)
 
+## Clojure by Example (added 2019-02-25)
+
+[Aditya Athalye](https://github.com/adityaathalye) got in touch to recommend
+[Clojure by Example](https://github.com/adityaathalye/clojure-by-example). I've
+looked it over, and I agree that it deserves a mention in this post. Besides
+the up-to-date [setup
+instructions](https://github.com/adityaathalye/clojure-by-example#setup-instructions)
+(and also some more resources on [choosing and setting up an
+editor](https://github.com/adityaathalye/clojure-by-example#code-editor-and-tooling)),
+it includes a series of tutorial examples teaching Clojure one piece at a time
+in a well-organized way. Check it out.
+
 ## Anything else?
 
 What would you add to my list? Any corrections, updates, or different opinions? Have you learned Clojure a different way that you would recommend? Please comment below if so.
