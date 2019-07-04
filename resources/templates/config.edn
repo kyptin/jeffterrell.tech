@@ -21,7 +21,7 @@
 ; :theme                "blue_centered"
 ; :theme                "lotus"
 ; :theme                "nucleus"
- :resources            ["img"]
+ :resources            ["img" ".well-known"]
  :keep-files           [".git"]
  :disqus?              true
  :disqus-shortname     "jeffterrell-tech"

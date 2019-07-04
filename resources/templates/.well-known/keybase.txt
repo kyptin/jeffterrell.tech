@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kyptin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jeffterrell.tech
+  * I am kyptin (https://keybase.io/kyptin) on keybase.
+  * I have a public key ASDD9FgPd0WBlTnf1EGJJlzQ2wQ_WhmtuNRrB5eVH5ZSgwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c3f4580f7745819539dfd44189265cd0db043f5a19adb8d46b0797951f9652830a",
+      "host": "keybase.io",
+      "kid": "0120c3f4580f7745819539dfd44189265cd0db043f5a19adb8d46b0797951f9652830a",
+      "uid": "1b4c3c7fa647f6f3791a1e5a2b133619",
+      "username": "kyptin"
+    },
+    "merkle_root": {
+      "ctime": 1562273678,
+      "hash": "6b2f64a08792389aa781b02f1f3dfc63bbe22afe5ed92c5cecd98f0d7a21cfc1e395d2116eb5f4878484ea63de185283dd952d69f120dcebe318f388297e837b",
+      "hash_meta": "4d6c6f52288cfedb98e7c2ccb01f07ec1dcfba467e995103ac8b8b42db83d105",
+      "seqno": 5697719
+    },
+    "service": {
+      "entropy": "1jVBsQGifRSKnPgcQvuJgj3r",
+      "hostname": "jeffterrell.tech",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1562273691,
+  "expire_in": 504576000,
+  "prev": "31b19bfaa3af8faf3fa3343ca3c34a38423de42c0ff05495eccf90041d31ecd0",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgw/RYD3dFgZU539RBiSZc0NsEP1oZrbjUaweXlR+WUoMKp3BheWxvYWTESpcCEcQgMbGb+qOvj68/ozQ8o8NKOEI95CwP8FSV7M+QBB0x7NDEIKpUu2MN0v9v5KBSfiSM0dMRL2isuri4V+it73NgnlLQAgHCo3NpZ8RAYclDf8Rni8VAFbFrb2p3CLlY90N7dNDyjlHfx85O2rhIX9iKzTMY17XB4H2jaEv6OIehprNb64xLB4n3F76LCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFlePDeD06WTQnZQYN7/wOZfvRW/uJHN4wGg2BFfZvnwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kyptin
+
+==================================================================
