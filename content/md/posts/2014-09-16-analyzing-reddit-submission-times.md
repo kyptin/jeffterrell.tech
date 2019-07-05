@@ -10,7 +10,7 @@ I enjoy reading the [Data is Beautiful](http://www.reddit.com/r/dataisbeautiful/
 
 I thought I'd test that assertion. So I wrote a [simple tool](https://bitbucket.org/altometrics/reddit-scores) in Clojure and gnuplot that queries the Reddit API for a particular subreddit, groups recent submissions by the submission hour (UTC), and creates a chart displaying the percentage of high-scoring submissions per hour. Here's the current chart for DataIsBeautiful:
 
-<!-more->
+<!--more-->
 
 <img src="/img/reddit-high-scores-highlighted.png" alt="The percentage of /r/dataisbeautiful Reddit scores that were above some value, per hour." width="640" height="480" />
 

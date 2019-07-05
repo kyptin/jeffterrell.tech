@@ -13,7 +13,7 @@ visualization, and Javascript, and I've been known to work on Rails and other
 projects as well. You can find my r&eacute;sum&eacute; [here](/img/résumé.pdf)
 and my LinkedIn Profile [here](https://www.linkedin.com/in/jeffreyterrell/).
 
-<!-more->
+<!--more-->
 
 Here's a summary of my skills:
 

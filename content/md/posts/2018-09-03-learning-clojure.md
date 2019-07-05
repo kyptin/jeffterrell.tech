@@ -6,7 +6,7 @@
 
 I'm suddenly finding myself in a situation where I need to help a lot of people get a crash-course in Clojure in preparation for a project we'll be doing this semester. Rather than prepare teaching materials myself, fun though that would be, I'll lean on the excellent resources already available. This post contains my current recommendations for how to learn Clojure.
 
-<!-more->
+<!--more-->
 
 _Note: I'm assuming a prerequisite of some programming experience. I'm not sure how much of a hard prerequisite that is. If you have a sense of that, I'd be interested to hear what you think._
 

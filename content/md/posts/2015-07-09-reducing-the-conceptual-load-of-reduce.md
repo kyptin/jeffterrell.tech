@@ -10,7 +10,7 @@ I'm really keen on legible code. Apart from correctness, I think legibility is t
 
 In my quest for legibility, I do code reviews. I recently saw the following code (in Clojure). I think it's not quite as legible as it could be.
 
-<!-more->
+<!--more-->
 
 ```clojure
 (let [env-vars ["PORT" "DATOMIC_URI" "ASSET_ROOT"]

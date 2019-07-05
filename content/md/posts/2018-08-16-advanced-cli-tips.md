@@ -6,7 +6,7 @@
 
 I just published [a screencast on advanced command-line tips](https://youtu.be/gU5nFonVEh0) from a short talk I gave last year. I try to keep my screencasts brisk to avoid wasting anybody's time, but I also understand some would prefer to have the content in a more skimmable format; hence this post.
 
-<!-more->
+<!--more-->
 
 Note that this is more an info-dump than a tutorial, so if any of these topics are unfamiliar, I suggest watching how I use them in the video.
 
