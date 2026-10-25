@@ -22,7 +22,7 @@
 ; :theme                "blue_centered"
 ; :theme                "lotus"
 ; :theme                "nucleus"
- :resources            ["img" ".well-known"]
+ :resources            ["img" ".well-known" "kobo"]
  :keep-files           [".git"]
  :disqus?              true
  :disqus-shortname     "jeffterrell-tech"
