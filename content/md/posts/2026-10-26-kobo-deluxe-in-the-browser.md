@@ -7,7 +7,7 @@
 I spent many hours in college playing what I consider to be one of the best 2d
 arcade shooters out there: [Kobo Deluxe](https://github.com/olofson/kobodeluxe),
 by [David Olofson](http://olofson.net/kobodl/). As an experiment, I asked Claude
-Opus to port it to WASM so I could [play it in my browser](https://jeffterrell.tech/kobo/).
+Opus to port it to WASM so I could [play it in my browser](/kobo/).
 
 <!--more-->
 
